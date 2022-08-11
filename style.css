@@ -26,9 +26,9 @@ header.head ul.link-header {
 }
 header.head ul.link-header li {
   font-weight: 400;
-  font-size: 1.4rem;
+  font-size: 19px;
   line-height: 1.7rem;
-  padding:1%;
+  padding:2%;
   text-align: center;
 }
 header.head ul.link-header li a {
